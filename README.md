@@ -18,3 +18,4 @@ This just blabla : it' s to trigger commit automatically
 
 
 This is just test
+This is just test
